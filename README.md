@@ -1,4 +1,11 @@
 <h1 align="left">Hi, I'm Deea</h1>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=deeaion&label=Profile%20views&color=0e75b6&style=flat" alt="deeaion" />
+
+<a href="https://www.linkedin.com/in/andreea-ion-1645a0198/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p> 
 
 ### 💻 About Me
 
@@ -30,9 +37,6 @@
 ---
 
 ### 🔥 My GitHub Stats
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=deeaion&label=Profile%20views&color=0e75b6&style=flat" alt="deeaion" />
-</p>
 
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=deeaion&theme=monokai&hide_border=false)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deeaion&theme=monokai&show_icons=true&hide_border=false&layout=compact)
